@@ -1,0 +1,27 @@
+﻿<Window x:Class="C29_SQL_Server_Crud.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:C29_SQL_Server_Crud"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Activated="Window_Activated"
+        >
+    <!-- Con este desencadenamos un evento cuando la venta se active -->
+    <!-- (se ejecuta o vuelve a primer plano) -->
+
+    <Grid>
+        <ListBox Name="ListaClientes" Margin="41,85,593,148" MouseDoubleClick="ListaClientes_MouseDoubleClick"/>
+        <ListBox Name="ListaPedidos" Margin="235,85,400,148"/>
+        <Label Content="Clientes" FontSize="30" HorizontalAlignment="Left" Margin="67,20,0,0" VerticalAlignment="Top"/>
+        <Label Content="Pedidos" FontSize="30" HorizontalAlignment="Left" Margin="260,20,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="PedidosCompleto"  Margin="432,85,36,85"/>
+        <Button Name="btnBorrar"  Content="`Borrar" HorizontalAlignment="Left" Margin="512,20,0,0" VerticalAlignment="Top" Height="45" Width="172" Click="btnBorrar_Click"/>
+        <Button Name="InsertarCliente" Content="Insertar" FontSize="20" HorizontalAlignment="Left" Height="28" Margin="41,304,0,0" VerticalAlignment="Top" Width="83" Click="InsertarCliente_Click"/>
+        <Button Name="BorrarCliente" Content="Borrar" FontSize="20" HorizontalAlignment="Left" Height="28" Margin="143,304,0,0" VerticalAlignment="Top" Width="83" Click="BorrarCliente_Click"/>
+        <TextBox Name="txtCliente" HorizontalAlignment="Left" TextAlignment="Center" Margin="41,352,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" Height="36"/>
+        <Button Name="ActualizarCliente"  Content="Actualizar" FontSize="20" HorizontalAlignment="Left" Height="28" Margin="260,304,0,0" VerticalAlignment="Top" Width="114" Click="ActualizarCliente_Click"/>
+
+    </Grid>
+</Window>

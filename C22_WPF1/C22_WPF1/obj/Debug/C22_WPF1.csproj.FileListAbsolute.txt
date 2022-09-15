@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\bin\Debug\C22_WPF1.exe.config
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\bin\Debug\C22_WPF1.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\bin\Debug\C22_WPF1.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\App.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1_MarkupCompile.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1_MarkupCompile.lref
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.g.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C22_WPF1\C22_WPF1\obj\Debug\C22_WPF1.pdb

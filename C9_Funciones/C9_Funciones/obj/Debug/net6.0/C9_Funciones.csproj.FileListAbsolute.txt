@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\bin\Debug\net6.0\C9_Funciones.exe
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\bin\Debug\net6.0\C9_Funciones.deps.json
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\bin\Debug\net6.0\C9_Funciones.runtimeconfig.json
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\bin\Debug\net6.0\C9_Funciones.dll
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\bin\Debug\net6.0\C9_Funciones.pdb
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.dll
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\refint\C9_Funciones.dll
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.pdb
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\C9_Funciones.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\c#\C9_Funciones\C9_Funciones\obj\Debug\net6.0\ref\C9_Funciones.dll

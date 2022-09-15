@@ -1,0 +1,22 @@
+THREADS O HILOS
+Los threads nos permiten la programación concurrente (aplicaciones
+multitarea).
+
+Una aplicación monotarea es cuando no se puede realizar otra tarea
+amenos que se termine de ejecutar la anterior. (No es que solo realize
+una tarea, sino que realiza una tarea a la vez de forma simultánea)
+
+Una aplicación multitarea es capaz de realizar varias tareas de forma
+simultánea.
+
+Ejemplos de Multitarea: 
+S.O. Windows es Multitarea: 
+Puedes realizar varias tares a la vez
+Mientras navegas por internet puedes estar imprimiendo un documento
+y reproduciendo un video.
+
+En una aplicacion multitarea el procesador es el que ejecuta un 
+hilo u otro y da la apariencia de que lo hace a la vez cuando no es así
+aunque tengamos un procesador de varios núcleos.
+
+

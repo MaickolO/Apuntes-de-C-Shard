@@ -1,0 +1,18 @@
+﻿<Window x:Class="C27_INotifyPropertyChanged.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:C27_INotifyPropertyChanged"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label Content="Nombre" HorizontalAlignment="Center"/>
+        <TextBox Width="150" Margin="20" Height="30" Text="{Binding Path=Nombre, Mode=TwoWay}"/>
+        <Label Content="Apellido" HorizontalAlignment="Center"/>
+        <TextBox Width="150" Margin="20" Height="30" Text="{Binding Path=Apellido, Mode=TwoWay}"/>
+        <Label Content="Nombre y Apellido" HorizontalAlignment="Center"/>
+        <TextBox Width="150" Margin="20" Height="30" Text="{Binding Path=Nombre_Completo, Mode=TwoWay}"/>
+        
+    </StackPanel>
+</Window>

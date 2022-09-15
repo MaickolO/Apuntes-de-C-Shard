@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\bin\Debug\net6.0\C37_Threads_Task.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\bin\Debug\net6.0\C37_Threads_Task.deps.json
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\bin\Debug\net6.0\C37_Threads_Task.runtimeconfig.json
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\bin\Debug\net6.0\C37_Threads_Task.dll
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\bin\Debug\net6.0\C37_Threads_Task.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.dll
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\refint\C37_Threads_Task.dll
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\C37_Threads_Task.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C37_Threads_Task\C37_Threads_Task\obj\Debug\net6.0\ref\C37_Threads_Task.dll

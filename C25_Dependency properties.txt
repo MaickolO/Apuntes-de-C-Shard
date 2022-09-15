@@ -1,0 +1,41 @@
+Dependency Properties
+(Propiedades de dependencia)
+
+-> Propiedades que dependen del sistema de propiedades de WPF para su
+	completo funcionamiento.
+
+-> Sistemas de Propiedades de WPF: Conjunto de servicios que se puede
+	utilizar para ampliar la funcionalidad de una propiedad.
+
+Cada vez que construimos un control (Button, TextBlock, TextBox, etc),
+estos controles tienen propiedades. Las propiedades de un control tienen
+tienen DEPENDENCIA DE las propiedades de WPF, por eso se dice que son
+Dependency Properties. Al usarlas parece una propiedad normal pero por 
+atras dependerá de las propiedades WPF.
+(Button -> Propiedades: Height, Width, Content, etc.)
+
+-> Se usa para establecer las propiedades de un control en función de 
+	parámetros que pueden cambiar (Just in Time)
+Por ejemplo: Propiedades del Sistema (temas y preferencias de usuario).
+		Data Binding (Just in Time).
+		Animaciones.
+		Estilos
+No es lo mismo que se ejecute un boton en un windows con tema oscuro y 
+uno con tema claro (Tienen diferentes animaciones y estilos).
+
+
+-> Las Dependency Properties son public static readonly.
+
+
+---- CREAR DEPENDENCY PROPERTIES PROPIA ----
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+COMPLETADO DE THREADS
+
+TaskCompletionSource<TResult>
+Nos permite controlar que una tarea comienze su trabajo
+siempre y cuando otra tarea cualquiera haya completado
+al 100% su trabajo. En lugar de ser una sincronización viene a ser
+una condición.
+
+Se suele usar cuando usamos sockets o en conexiones de bases de datos.

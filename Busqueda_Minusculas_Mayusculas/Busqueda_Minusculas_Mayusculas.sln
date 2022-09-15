@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busqueda_Minusculas_Mayusculas", "Busqueda_Minusculas_Mayusculas\Busqueda_Minusculas_Mayusculas.csproj", "{6ED26274-6C3F-4137-B691-346FF935F917}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED26274-6C3F-4137-B691-346FF935F917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED26274-6C3F-4137-B691-346FF935F917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED26274-6C3F-4137-B691-346FF935F917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED26274-6C3F-4137-B691-346FF935F917}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D73EB10-6CA7-4245-9710-B4F167499ED5}
+	EndGlobalSection
+EndGlobal

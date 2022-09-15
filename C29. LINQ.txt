@@ -1,0 +1,38 @@
+
+-- LINQ -> Languaje INtegrated Query (Lenguaje de Consulta Integrado) --
+
+
+Sirve para guardar y consultar datos de diferentes orígenes de datos
+(No solo de bases de datos).
+
+Se viene utilizando desde la versión 3.4 de .NET Framework y 3.0 de C#.
+
+Se pueden realizar las consultas en: 
+Colección de datos, XML, SQL BBDD, Entidades, Recordset y otras estructuras.
+
+programador -> hace consulta de datos -> Link facilita el acceso ->
+
+Ventajas de LINQ:
+Uniformidad en lenguajes de consulta.
+Reducción de código.
+Código más legible.
+Integración en C# (Intellisense disponible)
+
+Con LINQ podemos usar expresiones Lambda.
+
+Para usar LINQ necesitamos la API LINQ que esta formada principalmente
+por dos clases: Enumerable y Queryable (Interfaces IEnumerable - Iqueryable)
+(ofrecen los métodos que permiten acceder y manipular los datos).
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C35_Thread_TaskCompletionSource/1.0.0": {
+        "runtime": {
+          "C35_Thread_TaskCompletionSource.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C35_Thread_TaskCompletionSource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

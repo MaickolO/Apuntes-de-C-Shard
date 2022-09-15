@@ -1,0 +1,8 @@
+Sincronización (join())
+Con la sincronización podemos establecer el orden de ejecución de los 
+hilos.
+
+Bloqueos (lock())
+Con el bloqueo de hilos se puede impedir la manipulación del hilo o el
+código que esta utilizando el thread.
+

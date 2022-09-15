@@ -1,0 +1,11 @@
+Data Binding (Enlace de Datos)
+--Uso de DataBinding--
+"Control WPF" obtiene datos de muchas fuentes mediante el "binding"
+Ejemplos de fuentes: BBDD, objetos, controles
+
+
+--Tipos de DataBinding--
+OneWay -> Va de un origen o source (fuente) a un target (Control WPF)
+OneWayToSource -> Va desde un target hasta un source.
+TwoWays -> Va desde el source al target y del target al source.
+OneTime -> Los datos fluyen solo una vez desde el source al target.

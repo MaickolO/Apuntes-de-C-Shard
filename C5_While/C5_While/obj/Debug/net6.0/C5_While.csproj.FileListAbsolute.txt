@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\bin\Debug\net6.0\C5_While.exe
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\bin\Debug\net6.0\C5_While.deps.json
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\bin\Debug\net6.0\C5_While.runtimeconfig.json
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\bin\Debug\net6.0\C5_While.dll
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\bin\Debug\net6.0\C5_While.pdb
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.dll
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\refint\C5_While.dll
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.pdb
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\C5_While.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\c#\C5_While\C5_While\obj\Debug\net6.0\ref\C5_While.dll

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\bin\Debug\net6.0\C38_Tasks_Parallel.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\bin\Debug\net6.0\C38_Tasks_Parallel.deps.json
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\bin\Debug\net6.0\C38_Tasks_Parallel.runtimeconfig.json
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\bin\Debug\net6.0\C38_Tasks_Parallel.dll
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\bin\Debug\net6.0\C38_Tasks_Parallel.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.dll
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\refint\C38_Tasks_Parallel.dll
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\C38_Tasks_Parallel.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C38_Tasks_Parallel\C38_Tasks_Parallel\obj\Debug\net6.0\ref\C38_Tasks_Parallel.dll

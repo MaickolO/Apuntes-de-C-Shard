@@ -1,0 +1,7 @@
+En "Origen de datos" debemos agregar la conexion
+del proyecto con la base de datos.
+
+
+
+Cadena para conectar con la base de datos: 
+GestionPedidosConnectionString

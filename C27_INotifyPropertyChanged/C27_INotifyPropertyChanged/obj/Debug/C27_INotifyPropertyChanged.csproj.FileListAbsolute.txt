@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\bin\Debug\C27_INotifyPropertyChanged.exe.config
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\bin\Debug\C27_INotifyPropertyChanged.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\bin\Debug\C27_INotifyPropertyChanged.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged_MarkupCompile.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged_MarkupCompile.lref
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.g.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C27_INotifyPropertyChanged\C27_INotifyPropertyChanged\obj\Debug\C27_INotifyPropertyChanged.pdb

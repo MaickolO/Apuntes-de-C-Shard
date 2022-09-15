@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\bin\Debug\C23_WPF_StackPanel_Eventos.exe.config
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\bin\Debug\C23_WPF_StackPanel_Eventos.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\bin\Debug\C23_WPF_StackPanel_Eventos.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\App.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos_MarkupCompile.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos_MarkupCompile.lref
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.g.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos\obj\Debug\C23_WPF_StackPanel_Eventos.pdb

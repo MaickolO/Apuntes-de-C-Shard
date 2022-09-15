@@ -1,0 +1,14 @@
+WPF (Windows Presentation Fundation): Sustituto de Windows Forms}
+Es una API que pertenece al paquete .NET
+Se utiliza con un lenguaje de marcado (xaml) similar a HTML
+Se puede crear interfaces con codigo o con herramientas visuales
+Las interfaces gráficas son vectoriales (se pueden escalar sin perder definición)
+Utilizan Data binding (MVC).
+
+Usar -> Aplicación de WPF (.NET Framework)
+
+
+Se puede trabajar en Vista Diseño, con XAML, y con código C#.
+
+
+

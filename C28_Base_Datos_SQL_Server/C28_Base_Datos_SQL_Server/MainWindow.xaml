@@ -1,0 +1,17 @@
+﻿<Window x:Class="C28_Base_Datos_SQL_Server.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:C28_Base_Datos_SQL_Server"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Clientes" FontSize="22" HorizontalAlignment="Left" Margin="111,47,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="ListaClientes" HorizontalAlignment="Left" Height="197"
+                  Width="200" Margin="54,119,0,118" SelectionChanged="ListaClientes_SelectionChanged"/>
+        <Label Content="Pedidos" FontSize="22" HorizontalAlignment="Left" Margin="492,47,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="ListaPedidos"  Margin="418,119,147,118"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C34_THREADS_JOIN_LOCK/1.0.0": {
+        "runtime": {
+          "C34_THREADS_JOIN_LOCK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C34_THREADS_JOIN_LOCK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

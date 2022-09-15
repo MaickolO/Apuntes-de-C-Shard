@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C18_Delegados/1.0.0": {
+        "runtime": {
+          "C18_Delegados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C18_Delegados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\bin\Debug\net6.0\C7_Clase_StringBuilder.exe
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\bin\Debug\net6.0\C7_Clase_StringBuilder.deps.json
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\bin\Debug\net6.0\C7_Clase_StringBuilder.runtimeconfig.json
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\bin\Debug\net6.0\C7_Clase_StringBuilder.dll
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\bin\Debug\net6.0\C7_Clase_StringBuilder.pdb
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.dll
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\refint\C7_Clase_StringBuilder.dll
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.pdb
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\C7_Clase_StringBuilder.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\c#\C7_Clase_StringBuilder\C7_Clase_StringBuilder\obj\Debug\net6.0\ref\C7_Clase_StringBuilder.dll

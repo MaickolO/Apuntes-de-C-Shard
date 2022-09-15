@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\bin\Debug\C32_LINQ_SQLServer.exe.config
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\bin\Debug\C32_LINQ_SQLServer.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\bin\Debug\C32_LINQ_SQLServer.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\App.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer_MarkupCompile.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer_MarkupCompile.lref
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.g.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C32_LINQ_SQLServer\C32_LINQ_SQLServer\obj\Debug\C32_LINQ_SQLServer.pdb

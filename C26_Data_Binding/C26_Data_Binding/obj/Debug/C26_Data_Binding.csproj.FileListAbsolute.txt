@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\bin\Debug\C26_Data_Binding.exe.config
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\bin\Debug\C26_Data_Binding.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\bin\Debug\C26_Data_Binding.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\App.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding_MarkupCompile.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding_MarkupCompile.lref
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.g.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C26_Data_Binding\C26_Data_Binding\obj\Debug\C26_Data_Binding.pdb

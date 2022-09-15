@@ -1,0 +1,16 @@
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\bin\Debug\C25_Dependency_Properties.exe.config
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\bin\Debug\C25_Dependency_Properties.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\bin\Debug\C25_Dependency_Properties.pdb
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\MainWindow.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\App.g.cs
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties_MarkupCompile.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties_MarkupCompile.lref
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.g.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.exe
+C:\Users\USUARIO\Desktop\cursos_proyectos\c#\C25_Dependency_Properties\C25_Dependency_Properties\obj\Debug\C25_Dependency_Properties.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C23_WPF_StackPanel_Eventos", "C23_WPF_StackPanel_Eventos\C23_WPF_StackPanel_Eventos.csproj", "{7BBDD69D-8933-4474-8001-AD865683F00B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBDD69D-8933-4474-8001-AD865683F00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBDD69D-8933-4474-8001-AD865683F00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBDD69D-8933-4474-8001-AD865683F00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBDD69D-8933-4474-8001-AD865683F00B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C0B80FB-ED69-423D-A392-6308B74CE188}
+	EndGlobalSection
+EndGlobal

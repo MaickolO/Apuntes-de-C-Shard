@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Busqueda_Minusculas_Mayusculas/1.0.0": {
+        "runtime": {
+          "Busqueda_Minusculas_Mayusculas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Busqueda_Minusculas_Mayusculas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
